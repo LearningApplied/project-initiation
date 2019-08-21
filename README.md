@@ -1,4 +1,4 @@
-# project-initiation
+# SITE Program - Project Initiation
 Welcome to CITE Program! This assignment is designed to help you get set up with your development environment and with our project participation system. It also gives us a chance to get to know you a little better, too!
 
 This is not intended to take a very long time to complete, but please get started sooner rather than later so we can fix any issues before the first real project.
