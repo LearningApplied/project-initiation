@@ -11,38 +11,37 @@ This is not intended to take a very long time to complete, but please get starte
 [Part 6: Submit](#part-6-submit)  
 
 ### Part 1: Getting started with GitHub
-We will be using GitHub Classroom for homework distribution and turn-in. This will lead you getting started with GitHub and Git.
+We will be using GitHub Classroom for project starter code distribution and submit contributions. This will lead you getting started with GitHub and Git.
 
-If you are familiar with GitHub and have an account, skip to Part 2.
+If you are familiar with GitHub and have an account, skip to [Part 2](#part-2-get-the-project00-code).
 
-Q: What is Git and GitHub?
+**Q: What is Git and GitHub?**
 Git is a version control system, which is a program that developers use to track and manage changes to source code over time.
 GitHub is a company that provides hosting for code that is managed by the Git version control system.
 Git and GitHub are sophisticated tools for collaborative software development, used by millions of software developers worldwide. Git is incredibly powerful, but it has a somewhat notoriously steep learning curve.
 
-Luckily for CS193X, we will only be using a very small subset of Git and GitHub’s features.
+Luckily for our projects, we will only be using a very small subset of Git and GitHub’s features.
 
-1. Sign up for a free Github account
-Skip this if you already have a GitHub account.
+#### 1. Sign up for a free Github account
+Skip this if you already have a GitHub account.  
+You will need a GitHub account to use GitHub Classroom.  
+Sign up for one if you don’t have one already.  
+#### 2. Get the GitHub Education Pack
+Optional: This is useful in general, but not needed or beneficial for projet00.
 
-You will need a GitHub account to use GitHub Classroom.
-Sign up for one if you don’t have one already.
-2. Get the GitHub Education Pack
-Optional: This is useful in general, but not needed or beneficial for CS193X.
-
-This is not necessary for CS193X, but GitHub offers a bunch of free services for students, including free unlimited private GitHub repositories.
+This is not necessary for CITE projects, but GitHub offers a bunch of free services for students, including free unlimited private GitHub repositories.
 Learn more and sign up via the Student Developer Pack.
 ### Part 2: Get the Project00 code
-In CS193X, we will be using GitHub for the following purposes:
+For CITE porjects, we will be using GitHub for the following purposes:
 
-You will download the homework starter code from GitHub.
-You will upload your homework solution code to GitHub.
+You will download the project starter code from GitHub.
+You will upload your enhancement solution code to GitHub.
 You will publish your web page(s) to the internet via GitHub Pages.
-1. Accept the HW0 assignment
+#### 1. Accept the HW0 assignment
 Follow this link, where HW0 is stored on GitHub Classroom.
 Click the green “Accept this assignment” button. 
 Follow the link to your newly created assignment on the next screen. 
-2. Download the HW0 starter code
+#### 2. Download the HW0 starter code
 Technically, your newly created assignment is a “GitHub repository.”
 
 This is a private repository, meaning only you (and the course staff) can access it.
