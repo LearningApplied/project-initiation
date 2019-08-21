@@ -3,14 +3,14 @@ Welcome to CITE Program! This assignment is designed to help you get set up with
 
 This is not intended to take a very long time to complete, but please get started sooner rather than later so we can fix any issues before the first real project.
 
-[Part 1: Getting started with GitHub](#part-1-getting-started-with-github)  
+[Part 1: Getting started with GitHub](#part-1:-getting-started-with-github)  
 Part 2: Get the Project01 code  
 Part 3: Edit the Project01 code  
 Part 4: Upload to GitHub  
 Part 5: Publish your GitHub Page  
 Part 6: Submit  
 
-### Part 1 Getting started with GitHub
+### Part 1: Getting started with GitHub
 We will be using GitHub Classroom for homework distribution and turn-in. This will lead you getting started with GitHub and Git.
 
 If you are familiar with GitHub and have an account, skip to Part 2.
