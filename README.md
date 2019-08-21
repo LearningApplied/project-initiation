@@ -4,7 +4,7 @@ Welcome to CITE Program! This assignment is designed to help you get set up with
 This is not intended to take a very long time to complete, but please get started sooner rather than later so we can fix any issues before the first real project.
 
 [Part 1: Getting started with GitHub](#part-1-getting-started-with-github)  
-[Part 2: Get the Project00 code](#part-2-get-the project00 code)  
+[Part 2: Get the Project00 code](#part-2-get-the-project00-code)  
 [Part 3: Edit the Project00 code](#part-3-edit-the-project00-code)  
 [Part 4: Upload to GitHub](#part-4-upload-to-gitHub)  
 [Part 5: Publish your GitHub Page](#part-5-publish-your-gitHub-page)  
