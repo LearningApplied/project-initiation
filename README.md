@@ -4,11 +4,11 @@ Welcome to CITE Program! This assignment is designed to help you get set up with
 This is not intended to take a very long time to complete, but please get started sooner rather than later so we can fix any issues before the first real project.
 
 [Part 1: Getting started with GitHub](#part-1-getting-started-with-github)  
-Part 2: Get the Project01 code  
-Part 3: Edit the Project01 code  
-Part 4: Upload to GitHub  
-Part 5: Publish your GitHub Page  
-Part 6: Submit  
+[Part 2: Get the Project00 code](#part-2-get-the project00 code)  
+[Part 3: Edit the Project00 code](#part-3-edit-the-project00-code)  
+[Part 4: Upload to GitHub](#part-4-upload-to-gitHub)  
+[Part 5: Publish your GitHub Page](#part-5-publish-your-gitHub-page)  
+[Part 6: Submit](#part-6-submit)  
 
 ### Part 1: Getting started with GitHub
 We will be using GitHub Classroom for homework distribution and turn-in. This will lead you getting started with GitHub and Git.
@@ -32,7 +32,7 @@ Optional: This is useful in general, but not needed or beneficial for CS193X.
 
 This is not necessary for CS193X, but GitHub offers a bunch of free services for students, including free unlimited private GitHub repositories.
 Learn more and sign up via the Student Developer Pack.
-Part 2: Get the HW0 code
+### Part 2: Get the Project00 code
 In CS193X, we will be using GitHub for the following purposes:
 
 You will download the homework starter code from GitHub.
@@ -65,7 +65,7 @@ Note that Chrome is the recommended browser for the course, and your TAs will be
 Unzip your downloaded zip file somewhere on your computer
 Open “index.html” in Chrome or another browser of your choosing.
 You should see something that looks like the following: 
-Part 3: Edit the HW0 code
+### Part 3: Edit the Project00 code
 1. Download and install Atom
 Optional: We will be using Atom in lecture, but you may use whatever text editor you’d like.
 
@@ -78,7 +78,7 @@ Unlike CS106A and 106B, though, it is not very important for you to use Atom if 
 In Atom (or your preferred text editor), open index.html and fix the TODOs.
 Here is a screenshot of an example “solution”: 
 If you’d like, you can further style, decorate, or modify your page to your liking. This is not required, however.
-Part 4: Upload to GitHub
+### Part 4: Upload to GitHub
 Now that you’ve completed the homework, you should upload your files back to your Homework 0 repository.
 
 Git-speak for people who are very familiar with Git already:
@@ -92,7 +92,7 @@ On the next screen, select your index.html, style.css, and your image file for u
 (You actually don’t have to upload style.css again if you didn’t modify it.)
 Scroll to the bottom of the screen and click the green “Commit changes” button. You don’t need to fill out any of the form. 
 You should be redirected to the main repository screen again. The existing files should be updated and your new files should be uploaded.
-Part 5: Publish your GitHub Page
+### Part 5: Publish your GitHub Page
 You will now publish your website as a GitHub page. This will make your website publicly accessible on the internet. (Please remember the Honor Code section of the Course Info page.)
 
 Navigate to your Homework 0 repository on GitHub. (You should already be on this page.)
@@ -106,7 +106,7 @@ Click your link to verify it is working as expected.
 Note that this is a publicly accessible link. You can send it to your friends if you want to show it off!
 Note: You may notice that on the Settings page, there is an option to make the repository public. Please do not do this.
 
-Part 6: Submit
+### Part 6: Submit
 Finally, turn in the link to your GitHub repository and a link to your completed web page via this form:
 
 Turn in Homework 0
