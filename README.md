@@ -10,7 +10,7 @@ Part 4: Upload to GitHub
 Part 5: Publish your GitHub Page  
 Part 6: Submit  
 
-Part 1: Getting started with GitHub
+## Part 1: Getting started with GitHub
 We will be using GitHub Classroom for homework distribution and turn-in. This will lead you getting started with GitHub and Git.
 
 If you are familiar with GitHub and have an account, skip to Part 2.
