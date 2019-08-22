@@ -45,7 +45,9 @@ For CITE porjects, we will be using GitHub for the following purposes:
 &nbsp;
 * Follow the link to your newly created assignment on the next screen. 
 &nbsp;
-![](go-to-assignment.png)  
+&nbsp;
+![](go-to-assignment.png) 
+&nbsp;
 #### 2. Download the PR00 starter code
 Technically, your newly created assignment is a “GitHub repository.”
 
