@@ -16,7 +16,7 @@ We will be using GitHub Classroom for project starter code distribution and subm
 If you are familiar with GitHub and have an account, skip to [Part 2](#part-2-get-the-project00-code).
 
 **Q: What is Git and GitHub?**
-Git is a version control system, which is a program that developers use to track and manage changes to source code over time.
+Git is a [version control system](https://www.atlassian.com/git/tutorials/what-is-version-control), which is a program that developers use to track and manage changes to source code over time.
 GitHub is a company that provides hosting for code that is managed by the Git version control system.
 Git and GitHub are sophisticated tools for collaborative software development, used by millions of software developers worldwide. Git is incredibly powerful, but it has a somewhat notoriously steep learning curve.
 
