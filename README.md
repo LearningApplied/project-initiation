@@ -76,6 +76,7 @@ Note that **Chrome** is the recommended browser for the project. Please either [
 * Open “index.html” in Chrome or another browser of your choosing.
 * You should see something that looks like the following:  
 &nbsp;
+&nbsp;
 ![](index.png)  
 &nbsp;
 ### Part 3: Edit the Project00 code
