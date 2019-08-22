@@ -4,8 +4,8 @@ Welcome to CITE Program! This assignment is designed to help you get set up with
 This is not intended to take a very long time to complete, but please get started sooner rather than later so we can fix any issues before the first real project.
 
 [Part 1: Getting started with GitHub](#part-1-getting-started-with-github)  
-[Part 2: Get the Project00 code](#part-2-get-the-project00-code)  
-[Part 3: Edit the Project00 code](#part-3-edit-the-project00-code)  
+[Part 2: Get the PR00 code](#part-2-get-the-project00-code)  
+[Part 3: Edit the PR00 code](#part-3-edit-the-project00-code)  
 [Part 4: Upload to GitHub](#part-4-upload-to-gitHub)  
 [Part 5: Publish your GitHub Page](#part-5-publish-your-gitHub-page)  
 [Part 6: Submit](#part-6-submit)  
@@ -31,18 +31,18 @@ Optional: This is useful in general, but not needed or beneficial for projet00.
 
 * This is not necessary for CITE projects, but GitHub offers a bunch of free services for students, including free unlimited private GitHub repositories.
 * Learn more and sign up via the Student Developer Pack.
-### Part 2: Get the Project00 code
+### Part 2: Get the PR00 code
 For CITE porjects, we will be using GitHub for the following purposes:
 
 1. You will download the project starter code from GitHub.
 2. You will upload your enhancement solution code to GitHub.
 3. You will publish your web page(s) to the internet via GitHub Pages.
-#### 1. Accept the HW0 assignment
-Follow this link, where HW0 is stored on GitHub Classroom.
+#### 1. Accept the PR00 assignment
+[Follow this link](https://classroom.github.com/a/kbF8Ashc), where PR00 is stored on GitHub Classroom.
 ![Click the green “Accept this assignment” button.](accept-assignment.png) 
 
 Follow the link to your newly created assignment on the next screen. 
-#### 2. Download the HW0 starter code
+#### 2. Download the PR00 starter code
 Technically, your newly created assignment is a “GitHub repository.”
 
 This is a private repository, meaning only you (and the course staff) can access it.
