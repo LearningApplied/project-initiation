@@ -54,16 +54,15 @@ Technically, your newly created assignment is a “GitHub repository.”
 * This is basically a private online folder where you will ultimately store your finished homework files. Right now, though, it contains the starter code for the assignment.
 At this point, you want to download the files in this repository.
 
-``` 
-Git-speak for people who are very familiar with Git already: 
-(Please ignore this box entirely if you’ve never used git before.)
-- The “assignment” created for you through the GitHub Classroom UI is a private GitHub repository like any other private GitHub repo you would own.
-- You can clone, push, and pull to this repository using the command-line or whatever UI you prefer.
-- If you want to use git to manage your assignment (as opposed to the GitHub web UI), just clone your assignment repository and skip to [Part 3](#part-3-edit-the-project00-code).
-```
+**Git-speak for people who are very familiar with Git already:**
+_(Please **ignore this box entirely** if you’ve never used git before.)_
+* The “assignment” created for you through the GitHub Classroom UI is a private GitHub repository like any other private GitHub repo you would own.
+* You can clone, push, and pull to this repository using the command-line or whatever UI you prefer.
+* If you want to use git to manage your assignment (as opposed to the GitHub web UI), just clone your assignment repository and skip to [Part 3](#part-3-edit-the-project00-code).
+
 To download the starter code via the GitHub UI:
 
-In your homework repository (i.e. this ![screen](repository.png)), click the green “Clone or download” button. 
+In your homework repository (i.e. this [screen](repository.png)), click the green “Clone or download” button. 
 In the menu that pops up, click “Download ZIP” 
 3. View the starter code in a browser
 Note that Chrome is the recommended browser for the course, and your TAs will be grading your assignments using the Chrome browser. Please either install and use Chrome for development, or at least make sure to test your assignments in Chrome before submitting them.
