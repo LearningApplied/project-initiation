@@ -108,10 +108,18 @@ _(Please **ignore this box entirely** if you’ve never used git before.)_
 &nbsp;
 ![](upload.png)  
 &nbsp;
-* On the next screen, select your ```index.html```, ```style.css```, and your image file for upload. Your screen should now look like the following: 
-(You actually don’t have to upload style.css again if you didn’t modify it.)
-Scroll to the bottom of the screen and click the green “Commit changes” button. You don’t need to fill out any of the form. 
-You should be redirected to the main repository screen again. The existing files should be updated and your new files should be uploaded.
+* On the next screen, select your ```index.html```, ```style.css```, and your image file for upload.  
+Your screen should now look like the following:  
+&nbsp;
+![](upload2.png)  
+&nbsp;
+* (You actually don’t have to upload style.css again if you didn’t modify it.)
+* Scroll to the bottom of the screen and click the green “Commit changes” button. You don’t need to fill out any of the form.  
+&nbsp;
+![](commit.png)
+&nbsp;
+
+* You should be redirected to the main repository screen again. The existing files should be updated and your new files should be uploaded.
 ### Part 5: Publish your GitHub Page
 You will now publish your website as a GitHub page. This will make your website publicly accessible on the internet.
 
