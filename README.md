@@ -54,9 +54,8 @@ Technically, your newly created assignment is a “GitHub repository.”
 * This is basically a private online folder where you will ultimately store your finished homework files. Right now, though, it contains the starter code for the assignment.
 At this point, you want to download the files in this repository.
 
-> - **Git-speak for people who are very familiar with Git already:**  
-> - _(Please **ignore this box entirely** if you’ve never used git before.)_
-
+    **Git-speak for people who are very familiar with Git already:**  
+    _(Please **ignore this box entirely** if you’ve never used git before.)_
     * The “assignment” created for you through the GitHub Classroom UI is a private GitHub repository like any other private GitHub repo you would own.
     * You can clone, push, and pull to this repository using the command-line or whatever UI you prefer.
     * If you want to use git to manage your assignment (as opposed to the GitHub web UI), just clone your assignment repository and skip to Part 3.
