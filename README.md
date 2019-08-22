@@ -80,18 +80,22 @@ Note that **Chrome** is the recommended browser for the project. Please either [
 ![](index.png)
 &nbsp;
 ### Part 3: Edit the Project00 code
-1. Download and install Atom
-Optional: We will be using Atom in lecture, but you may use whatever text editor you’d like.
+#### 1. Download and install Atom
+_Optional: We will be using Atom in lecture, but you may use whatever text editor you’d like._
 
-We recommend that you use the Atom text editor for CS193X.
+We recommend that you use the [Atom text editor](https://atom.io/) for PR00.  
 
-Download and install Atom
-Unlike CS106A and 106B, though, it is not very important for you to use Atom if you prefer a different text editor for CS193X. However, the course staff will not provide support for any other editor besides Atom.
+* [Download and install Atom](https://atom.io/)
+It is not very important for you to use Atom if you prefer a different text editor, such as [Brackets](http://brackets.io/).
 
-2. Fix the TODOs in index.html
-In Atom (or your preferred text editor), open index.html and fix the TODOs.
-Here is a screenshot of an example “solution”: 
-If you’d like, you can further style, decorate, or modify your page to your liking. This is not required, however.
+#### 2. Fix the TODOs in ```index.html```
+* In Atom (or your preferred text editor), open ```index.html``` and fix the TODOs.
+* Here is a screenshot of an example “solution”: 
+&nbsp;
+![](index-susie.png)
+&nbsp;
+
+If you’d like, you can further style, decorate, or modify your page to your liking. 
 ### Part 4: Upload to GitHub
 Now that you’ve completed the homework, you should upload your files back to your Homework 0 repository.
 
