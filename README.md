@@ -29,14 +29,14 @@ Sign up for one if you don’t have one already.
 #### 2. Get the GitHub Education Pack
 Optional: This is useful in general, but not needed or beneficial for projet00.
 
-This is not necessary for CITE projects, but GitHub offers a bunch of free services for students, including free unlimited private GitHub repositories.
-Learn more and sign up via the Student Developer Pack.
+* This is not necessary for CITE projects, but GitHub offers a bunch of free services for students, including free unlimited private GitHub repositories.
+* Learn more and sign up via the Student Developer Pack.
 ### Part 2: Get the Project00 code
 For CITE porjects, we will be using GitHub for the following purposes:
 
-You will download the project starter code from GitHub.
-You will upload your enhancement solution code to GitHub.
-You will publish your web page(s) to the internet via GitHub Pages.
+1. You will download the project starter code from GitHub.
+2. You will upload your enhancement solution code to GitHub.
+3. You will publish your web page(s) to the internet via GitHub Pages.
 #### 1. Accept the HW0 assignment
 Follow this link, where HW0 is stored on GitHub Classroom.
 ![Click the green “Accept this assignment” button.](accept-assignment.png) 
