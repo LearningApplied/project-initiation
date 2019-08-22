@@ -94,27 +94,28 @@ It is not very important for you to use Atom if you prefer a different text edit
 &nbsp;  
 ![](index-susie.png)
 &nbsp;
-
-If you’d like, you can further style, decorate, or modify your page to your liking. 
+* If you’d like, you can further style, decorate, or modify your page to your liking. 
 ### Part 4: Upload to GitHub
-Now that you’ve completed the homework, you should upload your files back to your Homework 0 repository.
+Now that you’ve completed the project, you should upload your files back to your Project00 repository.
 
-Git-speak for people who are very familiar with Git already:
-(Please ignore this box entirely if you’ve never used git before.)
+**Git-speak for people who are very familiar with Git already:**
+_(Please **ignore this box entirely** if you’ve never used git before.)_
 
-If you cloned your repository via git, just commit all changes and push them to the repository on GitHub.
-You can now skip to Part 5.
-Navigate to your Homework 0 repository on GitHub (i.e. this screen).
-Click the “Upload files” button. 
+* If you cloned your repository via git, just commit all changes and push them to the repository on GitHub.
+* You can now skip to [Part 5](#part-5-publish-your-gitHub-page).  
+* Navigate to your Homework 0 repository on GitHub (i.e. [this screen](repository.png)).
+* Click the “Upload files” button.  
+&nbsp;
+![](upload.png)
 On the next screen, select your index.html, style.css, and your image file for upload. Your screen should now look like the following: 
 (You actually don’t have to upload style.css again if you didn’t modify it.)
 Scroll to the bottom of the screen and click the green “Commit changes” button. You don’t need to fill out any of the form. 
 You should be redirected to the main repository screen again. The existing files should be updated and your new files should be uploaded.
 ### Part 5: Publish your GitHub Page
-You will now publish your website as a GitHub page. This will make your website publicly accessible on the internet. (Please remember the Honor Code section of the Course Info page.)
+You will now publish your website as a GitHub page. This will make your website publicly accessible on the internet.
 
-Navigate to your Homework 0 repository on GitHub. (You should already be on this page.)
-Click the “Settings” button. 
+* Navigate to your Project00 repository on GitHub. (You should already be on this page.)
+* Click the “Settings” button. 
 On the Settings page, scroll down near the bottom to the “GitHub Pages” section. Under “Source”, click the button that’s currently set to “None”… 
 … and change it to “master branch”: 
 Then click “Save”: 
