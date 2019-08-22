@@ -40,8 +40,11 @@ For CITE porjects, we will be using GitHub for the following purposes:
 #### 1. Accept the PR00 assignment
 * [Follow this link](https://classroom.github.com/a/kbF8Ashc), where PR00 is stored on GitHub Classroom.
 * Click the green “Accept this assignment” button.  
+&nbsp;
 ![](accept-assignment.png)  
-* Follow the link to your newly created assignment on the next screen.  
+&nbsp;
+* Follow the link to your newly created assignment on the next screen. 
+&nbsp;
 ![](go-to-assignment.png)  
 #### 2. Download the PR00 starter code
 Technically, your newly created assignment is a “GitHub repository.”
