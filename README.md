@@ -39,7 +39,8 @@ You will upload your enhancement solution code to GitHub.
 You will publish your web page(s) to the internet via GitHub Pages.
 #### 1. Accept the HW0 assignment
 Follow this link, where HW0 is stored on GitHub Classroom.
-Click the green “Accept this assignment” button. 
+![Click the green “Accept this assignment” button.](accept-assignment.png) 
+
 Follow the link to your newly created assignment on the next screen. 
 #### 2. Download the HW0 starter code
 Technically, your newly created assignment is a “GitHub repository.”
