@@ -90,8 +90,8 @@ It is not very important for you to use Atom if you prefer a different text edit
 
 #### 2. Fix the TODOs in ```index.html```
 * In Atom (or your preferred text editor), open ```index.html``` and fix the TODOs.
-* Here is a screenshot of an example “solution”: 
-&nbsp;
+* Here is a screenshot of an example “solution”:  
+&nbsp;  
 ![](index-susie.png)
 &nbsp;
 
