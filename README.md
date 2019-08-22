@@ -62,18 +62,22 @@ _(Please **ignore this box entirely** if you’ve never used git before.)_
 
 To download the starter code via the GitHub UI:
 &nbsp;
-In your homework repository (i.e. [this screen](repository.png)), click the green “Clone or download” button.  
+* In your project repository (i.e. [this screen](repository.png)), click the green “Clone or download” button.  
 ![](download.png)
 &nbsp;
-In the menu that pops up, click “Download ZIP” 
+* In the menu that pops up, click “Download ZIP” 
 &nbsp;
 ![](download2.png)
-3. View the starter code in a browser
-Note that Chrome is the recommended browser for the course, and your TAs will be grading your assignments using the Chrome browser. Please either install and use Chrome for development, or at least make sure to test your assignments in Chrome before submitting them.
+&nbsp;
+#### 3. View the starter code in a browser
+Note that **Chrome** is the recommended browser for the project. Please either [install and use Chrome](https://www.google.com/chrome/) for development, or at least make sure to test your assignments in Chrome before submitting them.
 
-Unzip your downloaded zip file somewhere on your computer
-Open “index.html” in Chrome or another browser of your choosing.
-You should see something that looks like the following: 
+* Unzip your downloaded zip file somewhere on your computer
+* Open “index.html” in Chrome or another browser of your choosing.
+* You should see something that looks like the following: 
+&nbsp;
+![](index.png)
+&nbsp;
 ### Part 3: Edit the Project00 code
 1. Download and install Atom
 Optional: We will be using Atom in lecture, but you may use whatever text editor you’d like.
