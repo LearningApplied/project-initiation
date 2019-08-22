@@ -62,7 +62,7 @@ _(Please **ignore this box entirely** if you’ve never used git before.)_
 
 To download the starter code via the GitHub UI:
 
-In your homework repository (i.e. this [screen](repository.png)), click the green “Clone or download” button. 
+In your homework repository (i.e. [this screen](repository.png)), click the green “Clone or download” button. 
 In the menu that pops up, click “Download ZIP” 
 3. View the starter code in a browser
 Note that Chrome is the recommended browser for the course, and your TAs will be grading your assignments using the Chrome browser. Please either install and use Chrome for development, or at least make sure to test your assignments in Chrome before submitting them.
