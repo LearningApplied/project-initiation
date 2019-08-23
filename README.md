@@ -124,17 +124,29 @@ Your screen should now look like the following:
 You will now publish your website as a GitHub page. This will make your website publicly accessible on the internet.
 
 * Navigate to your Project00 repository on GitHub. (You should already be on this page.)
-* Click the “Settings” button. 
-* On the Settings page, scroll down near the bottom to the “GitHub Pages” section. Under “Source”, click the button that’s currently set to “None”… 
-… and change it to “master branch”: 
-Then click “Save”: 
-The page will reload and you will be taken back to the top of the Settings screen.
-Scroll back down to the “GitHub Pages” section, and you should now see a link to your published GitHub page. 
-Click your link to verify it is working as expected.
-Note that this is a publicly accessible link. You can send it to your friends if you want to show it off!
+* Click the “Settings” button.  
+&nbsp;  
+![](settings.png)  
+&nbsp;  
+* On the Settings page, scroll down near the bottom to the “GitHub Pages” section. Under “Source”, click the button that’s currently set to “None”…   
+&nbsp;  
+![](none.png)  
+&nbsp;  
+… and change it to “master branch”:  
+&nbsp;  
+![](master.png)  
+&nbsp;  
+
+* The page will reload and you will be taken back to the top of the Settings screen.  
+* Scroll back down to the “GitHub Pages” section, and you should now see a link to your published GitHub page.  
+&nbsp;  
+![](website.png)  
+&nbsp;  
+* Click your link to verify it is working as expected.
+* Note that this is a publicly accessible link. You can send it to your friends if you want to show it off!
 Note: You may notice that on the Settings page, there is an option to make the repository public. Please do not do this.
 
 ### Part 6: Submit
 Finally, turn in the link to your GitHub repository and a link to your completed web page via this form:
 
-Turn in Homework 0
+[Turn in Project00](https://forms.gle/6xMhztP2D5ZWVPxb7)
