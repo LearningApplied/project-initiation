@@ -96,14 +96,15 @@ It is not very important for you to use Atom if you prefer a different text edit
 &nbsp;
 * If you’d like, you can further style, decorate, or modify your page to your liking. 
 ### Part 4: Upload to GitHub
-Now that you’ve completed the project, you should upload your files back to your Project00 repository.
+Now that you’ve completed the project, you should upload your files back to your Project00 repository.  
+_Note: Both Part 4 and Part 5 should be executed in your own Project00 repository, not the copy from the classroom._
 
 **Git-speak for people who are very familiar with Git already:**
 _(Please **ignore this box entirely** if you’ve never used git before.)_
 
 * If you cloned your repository via git, just commit all changes and push them to the repository on GitHub.
 * You can now skip to [Part 5](#part-5-publish-your-gitHub-page).  
-* Navigate to your Homework 0 repository on GitHub (i.e. [this screen](repository.png)).
+* Navigate to your Project00 repository on GitHub (i.e. [this screen](repository.png)).
 * Click the “Upload files” button.  
 &nbsp;
 ![](upload.png)  
