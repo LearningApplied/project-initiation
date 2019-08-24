@@ -78,9 +78,9 @@ Note that **Chrome** is the recommended browser for the project. Please either [
 
 * Unzip your downloaded zip file somewhere on your computer
 * Open “index.html” in Chrome or another browser of your choosing.
-* You should see something that looks like the following:
+* You should see something that looks like the following:  
 &nbsp;
-&nbsp;
+
 ![](index.png)
 &nbsp;
 
@@ -101,6 +101,7 @@ It is not very important for you to use Atom if you prefer a different text edit
 ![](index-susie.png)
 &nbsp;
 * If you’d like, you can further style, decorate, or modify your page to your liking. 
+&nbsp;
 ### Part 4: Upload to GitHub
 Now that you’ve completed the project, you should upload your files back to your Project00 repository.  
 _Note: Both Part 4 and Part 5 should be executed in your own Project00 repository, not the copy from the classroom._
