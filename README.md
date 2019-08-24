@@ -30,9 +30,10 @@ Sign up for one if you don’t have one already.
 Optional: This is useful in general, but not needed or beneficial for projet00.
 
 * This is not necessary for CITE projects, but GitHub offers a bunch of free services for students, including free unlimited private GitHub repositories.
-* Learn more and sign up via the Student Developer Pack.
-&nbsp;
-### Part 2: Get the PR00 code
+* Learn more and sign up via the Student Developer Pack.  
+
+
+### Part 2: Get the PR00 code  
 For CITE porjects, we will be using GitHub for the following purposes:
 
 1. You will download the project starter code from GitHub.
